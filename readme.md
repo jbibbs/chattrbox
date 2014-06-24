@@ -4,7 +4,7 @@ Chattrbox is a CCMS (Chatterbox is not a CMS) designed around how content editor
 
 Chattrbox provides content authors and editors the tools they need to write and publish to the web. Developers can access that content through a robust API. 
 
-Chatterbox is completely free and open-source and may be the last CCMS you ever need.
+Chatterbox is completely free and open-source and may be the last CMS you ever need.
 
 ## Official Documentation
 
